@@ -1,0 +1,8 @@
+In this project
+1-A master page is creates 
+2-Its linked to all the web forms.
+3-A table is created for making the master page.
+4-Developer form consists of login function which can be done by adding connection string in web.config file
+5-if the user is not registered then create account funtionalty is available. 
+6-register form consist of reset button 
+7-After login a session is created for the user and user name gets printed on the dashboard screen.
